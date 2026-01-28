@@ -1,19 +1,47 @@
-<img align="right" width="400" height="400"
-src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
-# Welcome!
-## I'm João Gorski! Let me present a little about myself :D
-DevOps Engineer specialized in AWS, Terraform, CI/CD, and Docker :robot:
-Lover of Technology :heart:
-## About me
+<h1 align="left">Hey there 👋</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)]
+###
 
-(https://github.com/JGorski-cyber)
+<p align="left">My name is João Gorski (Or John, if that's easier), and I'm a DevOps Engineer 🤖</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-
-167362148/)](https://www.linkedin.com/in/joao-gorski-tech/)
+###
 
-- Thanks for visiting.
-- Enjoy it!! o/
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ <br>📚 I'm currently building a AWS-focused Fintech platform<br>🎯 <br>🎲</p>
+
+###
+
+<h2 align="left">Tech I'm familiar with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">Let's Connect!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joao-gorski-tech/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
