@@ -6,11 +6,14 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">What I've been up to lately</h2>
 
 ###
 
-<p align="left">✨ <br>📚 I'm currently building a AWS-focused Fintech platform<br>🎯 <br>🎲</p>
+<p align="left">✨ Built a AWS cloud infrastructure security & monitoring project using Terraform <br>
+  🎯 Developed a Python-based log processing and automation tool, dubbed Event Sentinel <br>
+  📚 I'm currently working on a AWS-focused Fintech platform with a focus on automation, IaC, containerization, and CI/CD pipelines<br>
+</p>
 
 ###
 
