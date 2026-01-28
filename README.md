@@ -4,6 +4,8 @@
 
 <p align="left">My name is João Gorski (Or John, if that's easier), and I'm a DevOps Engineer 🤖</p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ###
 
 <h2 align="left">What I've been up to lately</h2>
@@ -15,8 +17,6 @@
   📚 I'm currently working on a AWS-focused Fintech platform with a focus on automation, IaC, containerization, and CI/CD pipelines<br>
 </p>
 
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
   
 ###
 
