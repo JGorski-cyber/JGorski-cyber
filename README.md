@@ -11,6 +11,12 @@ I work primarily with AWS, Infrastructure as Code, and automation, with a strong
 - **AWS Cloud Security Foundation [[GitHub Repo](https://github.com/JGorski-cyber/aws-cloud-security-foundation)]**  
   Designed and implemented an AWS account security and monitoring baseline using Terraform, CloudTrail, CloudWatch, IAM, S3, and Athena.
 
+  **Project's Architecture Diagram:**
+
+<p align="center">
+  <img src="https://github.com/JGorski-cyber/aws-cloud-security-foundation/blob/main/diagrams/full-architecture-diagram.png" width="500">
+</p>
+
 - **Event Sentinel — Python Log Triage Tool [[GitHub Repo](https://github.com/JGorski-cyber/event-sentinel)]**  
   Built a Python-based automation tool to normalize and analyze logs, highlighting suspicious activity and accelerating investigation workflows.
 
