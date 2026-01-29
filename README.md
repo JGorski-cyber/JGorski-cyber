@@ -1,34 +1,37 @@
-<h1 align="left">Hey there 👋</h1>
+## Hey there 👋
 
-<p align="left">My name is João Gorski (Or John, if that's easier), and I'm a DevOps Engineer 🤖</p>
+I'm João Gorski (you can call me John), a DevOps Engineer focused on building secure, automated, and scalable cloud infrastructure.
 
-<h2 align="left">What I've been up to lately</h2>
+I work primarily with AWS, Infrastructure as Code, and automation, with a strong emphasis on reliability, security-first design, and reproducible environments.
 
-<p align="left">✨ Built a AWS cloud infrastructure security & monitoring project using Terraform <br>
-  🎯 Developed a Python-based log processing and automation tool, dubbed Event Sentinel <br>
-  📚 I'm currently working on a AWS-focused Fintech platform with a focus on automation, IaC, containerization, and CI/CD pipelines<br>
-</p>
+---
 
-<h2 align="left">Tech I'm familiar with</h2>
+## 🔧 What I’ve been working on
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+- **AWS Cloud Security Foundation**  
+  Designed and implemented an AWS account security and monitoring baseline using Terraform, CloudTrail, CloudWatch, IAM, S3, and Athena.
 
-<h2 align="left">Let's Connect!</h2>
+- **Event Sentinel — Python Log Triage Tool**  
+  Built a Python-based automation tool to normalize and analyze logs, highlighting suspicious activity and accelerating investigation workflows.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-gorski-tech/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+- **Fintech Analytics Platform (In Progress)**  
+  Designing a cloud infrastructure platform on AWS with a focus on Infrastructure as Code, containerization, and CI/CD pipelines.  
+  The emphasis is on platform automation and operational reliability rather than application features.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Cloud:** AWS (EC2, S3, IAM, VPC, CloudWatch, CloudTrail, Athena)
+- **Infrastructure as Code:** Terraform
+- **Containers & CI/CD:** Docker, GitHub Actions
+- **Systems & Automation:** Linux, Bash, Python
+- **Version Control:** Git & GitHub
+
+---
+
+## 🌍 Let’s connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joao-gorski-tech)
+
+I’m always learning, building, and improving cloud infrastructure through hands-on projects.
