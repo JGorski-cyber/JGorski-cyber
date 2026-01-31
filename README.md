@@ -1,8 +1,8 @@
 ## Hey there 👋
 
-I'm João Gorski (you can call me John), a DevOps Engineer focused on building secure, automated, and scalable cloud infrastructure.
+I'm João Gorski (you can call me John), a **DevOps Engineer** focused on building secure, automated, and scalable cloud infrastructure.
 
-I work primarily with AWS, Infrastructure as Code, and automation, with a strong emphasis on reliability, security-first design, and reproducible environments.
+I work primarily with AWS, Infrastructure as Code (Terraform), and automation, with a strong emphasis on reliability, security-first design, and reproducible environments.
 
 ---
 
