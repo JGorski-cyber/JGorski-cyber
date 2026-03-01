@@ -20,7 +20,7 @@ I work primarily with AWS, Infrastructure as Code (Terraform), and automation, w
 - **Event Sentinel — Python Log Triage Tool [[GitHub Repo](https://github.com/JGorski-cyber/event-sentinel)]**  
   Built a Python-based automation tool to normalize and analyze logs, highlighting suspicious activity and accelerating investigation workflows.
 
-- **E-Commerce Application Platform (In Progress)**  
+- **E-Commerce Application Platform (In Progress)** [[Application Repo](https://github.com/JGorski-cyber/not-so-simple-ecommerce)] [[IaC Repo](https://github.com/JGorski-cyber/not-so-simple-ecommerce-iac)]    
   Designing a cloud infrastructure platform on AWS with a focus on Infrastructure as Code, containerization, and CI/CD pipelines.  
   The emphasis is on platform automation and operational reliability rather than application features.
 
@@ -38,6 +38,6 @@ I work primarily with AWS, Infrastructure as Code (Terraform), and automation, w
 
 ## 🌍 Let’s connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joao-gorski-tech)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joao-gorski-aws-devops)
 
 I’m always learning, building, and improving cloud infrastructure through hands-on projects.
